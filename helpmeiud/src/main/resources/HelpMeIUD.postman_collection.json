@@ -1,0 +1,24 @@
+{
+	"info": {
+		"_postman_id": "839a09a3-97f3-4271-87d8-ebc7b1d4ce07",
+		"name": "HelpMeIUD",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "20955931"
+	},
+	"item": [
+		{
+			"name": "Delitos",
+			"item": [
+				{
+					"name": "ConsultarDelitos",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "localhost:8081/api/v1/delitos"
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
